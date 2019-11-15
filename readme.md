@@ -1,35 +1,28 @@
-# INF99X: Sample Course
+﻿# DP-201-设计 Azure 数据解方案
 
-- **[Download Latest Student Handbook and AllFiles Content](../../releases/latest)**
-- **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
-- **Need to manually build the lab instructions?** - Instructions are available in the [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) repository
+以下是每个模块的实验目标摘要：
 
-## What are we doing?
+## 实验 1 — 数据平台架构考虑事项
 
-- To support this course, we will need to make frequent updates to the course content to keep it current with the Azure services used in the course.  We are publishing the lab instructions and lab files on GitHub to allow for open contributions between the course authors and MCTs to keep the content current with changes in the Azure platform.
+学生将使用本模块中获得的信息并将其应用于关于 AdventureWorks 的案例研究中定义的场景。他们将描述并提供有关如何将创建架构的核心原则应用于 AdventureWorks 的示例。 
 
-- We hope that this brings a sense of collaboration to the labs like we've never had before - when Azure changes and you find it first during a live delivery, go ahead and make an enhancement right in the lab source.  Help your fellow MCTs.
+这将包括考虑安全性的设计。他们还将提供有关如何在解决方案中设计性能和可缩放性的具体示例。学生还将描述组织所需的可用性和可恢复性选项。最后，学生将确定选项可以获得的效率和运营机会
 
-## How should I use these files relative to the released MOC files?
+## 实验 2 — Azure 批处理参考体系结构
 
-- The instructor handbook and PowerPoints are still going to be your primary source for teaching the course content.
+学生将使用案例研究从批处理模式的角度确定哪些业务和技术要求与 Lambda 架构相关。然后，学生将构建企业 BI 解决方案，然后向架构添加自动化。最后，学生将尝试设计和 AI 架构，侧重于支持此类解决方案所需的数据存储  
 
-- These files on GitHub are designed to be used in conjunction with the student handbook, but are in GitHub as a central repository so MCTs and course authors can have a shared source for the latest lab files.
+## 实验 3 — Azure 实时参考体系结构
 
-- It will be recommended that for every delivery, trainers check GitHub for any changes that may have been made to support the latest Azure services, and get the latest files for their delivery.
+学生将使用案例研究从实时角度确定哪些业务和技术要求与 Lambda 架构相关。然后，学生将使用 Azure 流分析和 Azure Databricks 构建流式传输管线。最后，学生将尝试设计与满足 AdventureWorks 业务要求相关的物联网架构。 
 
-## What about changes to the student handbook?
+## 实验 4 — Azure 数据平台安全注意事项
 
-- We will review the student handbook on a quarterly basis and update through the normal MOC release channels as needed.
+学生将探索一系列可用的安全选项，以提供深度防御方法来确保 AdventureWorks 环境安全。这将包括调查可用的可用网络保护选项，以及每个服务支持的身份验证机制。学生还将了解可用的加密选项，并证明对网络级和应用程序级保护的理解。
 
-## How do I contribute?
+## 实验 5 — 规模和弹性设计
 
-- Any MCT can submit a pull request to the code or content in the GitHub repro, Microsoft and the course author will triage and include content and lab code changes as needed.
+学生将探索在为组织定义解决方案架构时必须考虑的一系列弹性和缩放问题。他们将首先考察如何将缩放纳入解决方案。他们将通过研究存储和数据库性能以及如何使解决方案具有高可用性来实现这一目标。最后，学生将调查灾难恢复问题。
 
-- You can submit bugs, changes, improvement and ideas.  Find a new Azure feature before we have?  Submit a new demo!
-
-## Notes
-
-### Classroom Materials
-
-It is strongly recommended that MCTs and Partners access these materials and in turn, provide them separately to students.  Pointing students directly to GitHub to access Lab steps as part of an ongoing class will require them to access yet another UI as part of the course, contributing to a confusing experience for the student. An explanation to the student regarding why they are receiving separate Lab instructions can highlight the nature of an always-changing cloud-based interface and platform. Microsoft Learning support for accessing files on GitHub and support for navigation of the GitHub site is limited to MCTs teaching this course only.
+## 实验 6 — 为效率和运营而设计
+学生将探索如何最大限度地提高云环境的使用效率，以及如何监控和分析 Azure 门户的运营效率。他们还将研究如何使用自动化来减少工作量和错误。
