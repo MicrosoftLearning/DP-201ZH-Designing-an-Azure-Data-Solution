@@ -11,7 +11,7 @@ lab:
 
 **先决条件**：假设已经阅读了本实验的案例研究。
 
-**实验文件**：本实验的文件位于 _Allfiles\Labfiles\Starter\DP-200.6_ 文件夹。
+**实验文件**：本实验的文件位于 _Allfiles\Labfiles\Starter\DP-201.6_ 文件夹。
 
 ## 实验概述
 
@@ -49,9 +49,9 @@ lab:
 
 ### 任务 1：提供“Azure 价格计算器”的链接以及最佳实践列表，以最大限度地降低成本。
 
-1. 在实验室虚拟机上，启动 **Microsoft Word**，并打开 **Allfiles\Labfiles\Starter\DP-200.6** 文件夹中的文件 **DP-200-Lab06-Ex01_Ta01.docx**。
+1. 在实验室虚拟机上，启动 **Microsoft Word**，并打开 **Allfiles\Labfiles\Starter\DP-201.6** 文件夹中的文件 **DP-201-Lab06-Ex01_Ta01.docx**。
 
-1. 作为一个小组，花 **15 分钟** 讨论并列出信息系统部门应遵循的最佳实践，以最大限度地降低成本。
+1. 作为一个小组，花 **20 分钟** 讨论并列出信息系统部门应遵循的最佳实践，以最大限度地降低成本。
 
 > **结果**：完成本练习后，你已创建一个提供“Azure 价格计算器”的链接以及最佳实践列表以最小化成本的 Microsoft Word 文档。
 
@@ -65,9 +65,9 @@ lab:
 
 ### 任务 1：提供“Azure 价格计算器”的链接以及最佳实践列表，以最大限度地降低成本。
 
-1. 在实验室虚拟机上，启动 **Microsoft Word**，并打开 **Allfiles\Labfiles\Starter\DP-200.6** 文件夹中的文件 **DP-200-Lab06-Ex02_Ta01.docx**。
+1. 在实验室虚拟机上，启动 **Microsoft Word**，并打开 **Allfiles\Labfiles\Starter\DP-201.6** 文件夹中的文件 **DP-201-Lab06-Ex02_Ta01.docx**。
 
-1. 作为一个小组，花 **15 分钟** 讨论并起草应由 AdventureWorks 采用的监视和分析策略。
+1. 作为一个小组，花 **20 分钟** 讨论并起草应由 AdventureWorks 采用的监视和分析策略。
 
 > **结果**：完成本练习后，你已创建一个提供了 AdventureWorks 应采用的监视和分析策略的 Microsoft Word 文档。
 
@@ -81,8 +81,8 @@ lab:
 
 ### 任务 1：提供“Azure 价格计算器”的链接以及最佳实践列表，以最大限度地降低成本。
 
-1. 在实验室虚拟机上，启动 **Microsoft Word**，并打开 **Allfiles\Labfiles\Starter\DP-200.6** 文件夹中的文件 **DP-200-Lab06-Ex0_Ta01.docx**。
+1. 在实验室虚拟机上，启动 **Microsoft Word**，并打开 **Allfiles\Labfiles\Starter\DP-201.6** 文件夹中的文件 **DP-201-Lab06-Ex0_Ta01.docx**。
 
-1. 作为一个小组，花 **15 分钟** 列出自动化语言和方法的选项。描述命令式自动化与声明式自动化之间的区别。
+1. 作为一个小组，花 **20 分钟** 列出自动化语言和方法的选项。描述命令式自动化与声明式自动化之间的区别。
 
 > **结果**：完成本练习后，你已创建一个包含自动化语言和方法的选项列表的 Microsoft Word 文档。
