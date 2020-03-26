@@ -39,7 +39,7 @@ lab:
 
 >**注**：本实验分为两部分。这是第 1 部分，你作为一个小组来回答问题。每次练习的时间由小组自行决定。整个实验室应在 60 分钟内完成。在第 2 部分中，讲师将与小组讨论他们关于实验室的学习和发现。
 
->**资源**：除了使用本实验的课程案例研究外，你还可以使用 [Microsoft Word](https://docs.microsoft.com)、[Azure 参考架构站点](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/)和[ Microsoft Customer Stories Site ](https://customers.microsoft.com/)等资源，帮助你回答本实验中的问题。 
+>**资源**：除了使用本实验的课程案例研究外，你还可以使用 [Microsoft Word](https://docs.microsoft.com)、[Azure 参考架构站点](https://docs.microsoft.com/zh-cn/azure/architecture/reference-architectures/)和[ Microsoft Customer Stories Site ](https://customers.microsoft.com/)等资源，帮助你回答本实验中的问题。 
 
 ## 练习 1：在 Azure 中设计企业 BI 解决方案
 
@@ -53,7 +53,7 @@ lab:
 
 ### 任务 1：列出 AdventureWorks 的批处理模式处理要求
 
-1. 在你的机器上，启动 **Microsoft Word**，并打开 **Allfiles\Labfiles\Starter\DP-201.1** 文件夹中的文件 **DP-201-Lab02_Ex01_Ta01.docx**。
+1. 在你的机器上，启动 **Microsoft Word**，并打开 **Allfiles\Labfiles\Starter\DP-201.2** 文件夹中的文件 **DP-201-Lab02_Ex01_Ta01.docx**。
 
 1. 作为一个小组，花 **15 分钟** 讨论并列出构成 AdventureWorks 中企业 BI 解决方案一部分的需求。应从案例研究中提供证据。
 
@@ -61,7 +61,7 @@ lab:
 
 ### 任务 2：构建一个反映 AdventureWorks 中的企业 BI 解决方案的高级架构。
 
-1. 在你的机器上，启动 **Microsoft Word**，并打开 **Allfiles\Labfiles\Starter\DP-201.1** 文件夹中的文件 **DP-201-Lab01_Ex01_Ta02.docx**。
+1. 在你的机器上，启动 **Microsoft Word**，并打开 **Allfiles\Labfiles\Starter\DP-201.2** 文件夹中的文件 **DP-201-Lab01_Ex01_Ta02.docx**。
 
 1. 作为一个小组，花 **20 分钟** 讨论和绘制将构成 AdventureWorks 中企业 BI 解决方案一部分的架构。你可以使用 icon 文件夹中的 png 文件来构建架构。
 
@@ -77,7 +77,7 @@ lab:
 
 ### 任务 1：修订高级架构，以包含 AdventureWorks 中企业 BI 解决方案的自动化。
 
-1. 在你的机器上，启动 **Microsoft Word**，并打开 **Allfiles\Labfiles\Starter\DP-201.1** 文件夹中的文件 **DP-201-Lab01_Ex02_Ta01.docx**。阅读文档并查看示例。
+1. 在你的机器上，启动 **Microsoft Word**，并打开 **Allfiles\Labfiles\Starter\DP-201.2** 文件夹中的文件 **DP-201-Lab01_Ex02_Ta01.docx**。阅读文档并查看示例。
 
 1. 作为一个小组，花 **15 分钟** 在文档 **DP-201-Lab01_Ex01_Ta02.docx** 中查看已在 AdventureWorks 中定义为企业 BI 解决方案一部分的架构。将“数据工厂”图标添加到“数据工厂”将自动执行的工作流程中。你可以使用 icon 文件夹中的 png 文件来构建架构。
 
@@ -93,7 +93,7 @@ lab:
 
 ### 任务 1：在 Azure 中构建企业级对话机器人
 
-1. 在你的机器上，启动 **Microsoft Word**，并打开 **Allfiles\Labfiles\Starter\DP-201.1** 文件夹中的文件 **DP-201-Lab01_Ex03_Ta01.docx**。阅读文档并查看示例。
+1. 在你的机器上，启动 **Microsoft Word**，并打开 **Allfiles\Labfiles\Starter\DP-201.2** 文件夹中的文件 **DP-201-Lab01_Ex03_Ta01.docx**。阅读文档并查看示例。
 
 1. 作为一个小组，花 **10 分钟** 讨论和绘制将构成 AdventureWorks 中企业级对话机器人的一部分的架构。你可以使用 icon 文件夹中的 png 文件来构建架构。
 

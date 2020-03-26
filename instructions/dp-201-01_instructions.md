@@ -41,7 +41,7 @@ lab:
 
 >**注**：本实验分为两部分。这是第 1 部分，你作为一个小组来回答问题。每次练习的时间由小组自行决定。整个实验室应在 60 分钟内完成。在第 2 部分中，讲师将与小组讨论他们关于实验室的学习和发现。
 
->**资源**：除了使用本实验的课程案例研究外，你还可以使用 [Microsoft Word](https://docs.microsoft.com)、[Azure 参考架构站点](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/)和[ Microsoft Customer Stories Site ](https://customers.microsoft.com/)等资源，帮助你回答本实验中的问题。 
+>**资源**：除了使用本实验的课程案例研究外，你还可以使用 [Microsoft Word](https://docs.microsoft.com)、[Azure 参考架构站点](https://docs.microsoft.com/zh-cn/azure/architecture/reference-architectures/)和[ Microsoft Customer Stories Site ](https://customers.microsoft.com/)等资源，帮助你回答本实验中的问题。 
 
 ## 练习 1：设计时以安全为念
 
@@ -69,7 +69,7 @@ lab:
 
 ### 任务 1：确定 AdventureWorks 的性能和可缩放性要求。
 
-1. 在你的机器上，启动 **Microsoft Word**，并打开 **Allfiles\Labfiles\Starter\DP-200.1** 文件夹中的文件 **DP-200-Lab01.docx**。
+1. 在你的机器上，启动 **Microsoft Word**，并打开 **Allfiles\Labfiles\Starter\DP-201.1** 文件夹中的文件 **DP-201-Lab01.docx**。
 
 1. 作为一个小组，花 **15 分钟** 讨论并列出你的小组在案例研究文档中确定的性能和可缩放性要求。应从案例研究中提供证据。
 
@@ -85,7 +85,7 @@ lab:
 
 ### 任务 1：确定 AdventureWorks 的可用性和可恢复性要求。
 
-1. 在你的机器上，启动 **Microsoft Word**，并打开 **Allfiles\Labfiles\Starter\DP-200.1** 文件夹中的文件 **DP-200-Lab01.docx**。
+1. 在你的机器上，启动 **Microsoft Word**，并打开 **Allfiles\Labfiles\Starter\DP-201.1** 文件夹中的文件 **DP-201-Lab01.docx**。
 
 1. 作为一个小组，花 **15 分钟** 讨论并列出你的小组在案例研究文档中确定的可用性和可恢复性要求。应从案例研究中提供证据。
 
@@ -101,7 +101,7 @@ lab:
 
 ### 任务 1：确定 AdventureWorks 的效率和操作要求。
 
-1. 在你的机器上，启动 **Microsoft Word**，并打开 **Allfiles\Labfiles\Starter\DP-200.1** 文件夹中的文件 **DP-200-Lab01.docx**。
+1. 在你的机器上，启动 **Microsoft Word**，并打开 **Allfiles\Labfiles\Starter\DP-201.1** 文件夹中的文件 **DP-201-Lab01.docx**。
 
 1. 作为一个小组，花 **15 分钟** 讨论并列出你的小组在案例研究文档中确定的可用性和可恢复性要求。应从案例研究中提供证据。
 
